@@ -9,6 +9,7 @@ The purpose of this project is to analyze the temporal changes in lake area, hel
 
 
 ## Example Outputs
-Lake Area Visualizations: Annual maps showing the NDWI values, with the lake areas highlighted.
+Lake Area Visualizations: Uromia Lake (2000 to 2024)
+This project visualizes the annual change in the area of Uromia Lake (or any specified lake) over the years, from 2000 to 2024. The NDWI (Normalized Difference Water Index) is used to identify the water body, and the KMeans clustering technique is applied to differentiate between water and non-water areas.
 
 ![image alt](https://github.com/SaeidDaliriSusefi/Lake-Monitoring-Modis/blob/93f692f3a74ce9533a79dca36b00ba9e73c87ac3/Images/urmia%20lake_Area.png)
